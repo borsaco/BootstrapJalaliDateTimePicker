@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-jalali-date-time-picker",
+  "main": "dist/js/bootstrap-jalali-date-time-picker.min.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borsaco/BootstrapJalaliDateTimePicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/borsaco/BootstrapJalaliDateTimePicker/issues"
+  },
+  "keywords": [
+    "twitter-bootstrap",
+    "bootstrap",
+    "datepicker",
+    "datetimepicker",
+    "timepicker",
+    "moment",
+    "shamsi",
+    "persian",
+    "jalali"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0",
+    "jquery": "latest",
+    "moment": "~2.8.2"
+  }
+}
